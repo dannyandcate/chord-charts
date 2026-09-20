@@ -216,13 +216,13 @@
     --accent:#a44737;
     --accent-strong:#783027;
     --accent-soft:#f6e5df;
-    --card-bg:#ffffcc;
+    --card-bg:#f9f9d9;
     --card-border:#ddd3c5;
     --control-border:#b9ac9d;
     --btn-bg:#a44737;
     --btn-fg:#ffffff;
     --error:#9e2a20;
-    --surface:#ffffcc;
+    --surface:#f9f9d9;
     --shadow-pop:0 14px 30px -10px rgba(41,38,33,.28), 0 2px 8px rgba(41,38,33,.1);
   }
   /* B&W preview: a flat photocopy — glow, grain and paper warmth all switch off. */
@@ -1027,7 +1027,7 @@
      chips whatever ground the popover has */
   .threshold-example figure{
     margin:0; text-align:center;
-    background:#ffffcc; border:1px solid #ddd3c5; border-radius:8px; padding:5px 4px 2px;
+    background:#f9f9d9; border:1px solid #ddd3c5; border-radius:8px; padding:5px 4px 2px;
   }
   body.bw-mode .threshold-example figure{ background:#fff; border-color:#000; }
   .threshold-example figcaption{ font-size:11px; font-weight:600; color:#292621; margin-bottom:3px; }
