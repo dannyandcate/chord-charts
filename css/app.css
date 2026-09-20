@@ -222,7 +222,7 @@
     --btn-bg:#a44737;
     --btn-fg:#ffffff;
     --error:#9e2a20;
-    --surface:#fdf5e6;
+    --surface:##fdf5e6;
     --shadow-pop:0 14px 30px -10px rgba(41,38,33,.28), 0 2px 8px rgba(41,38,33,.1);
   }
   /* B&W preview: a flat photocopy — glow, grain and paper warmth all switch off. */
@@ -1027,7 +1027,7 @@
      chips whatever ground the popover has */
   .threshold-example figure{
     margin:0; text-align:center;
-    background:#fdf5e6; border:1px solid #ddd3c5; border-radius:8px; padding:5px 4px 2px;
+    background:##fdf5e6; border:1px solid #ddd3c5; border-radius:8px; padding:5px 4px 2px;
   }
   body.bw-mode .threshold-example figure{ background:#fff; border-color:#000; }
   .threshold-example figcaption{ font-size:11px; font-weight:600; color:#292621; margin-bottom:3px; }
