@@ -9,6 +9,8 @@ and voilà, you got yourself a reference.
 # This link vil generate another instrument, and chords
 https://dannyandcate.github.io/chord-charts/?tuning=bari_uke&chords=C,F%2FC,G,Am
 
+---
+
 # Chord chart generator
 
 A single-page web app that draws printable chord diagrams (fretboard finger positions) for ukulele (several tunings, plus baritone), cavaquinho (Brazilian and Portuguese), Venezuelan cuatro, mandolin, mandola, tenor banjo, plectrum banjo and bass guitar.
